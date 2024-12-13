@@ -1,4 +1,4 @@
-# Official App/User Content Library
+# Official App/User Media Kit for Epicentral Labs
 
 This repository is the library used between the core team, public contributors, and external third parties that wish to utilize or impliment the content here.
 
