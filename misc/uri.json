@@ -1,12 +1,6 @@
 {
     "name": "xTEST",
     "symbol": "xTEST",
-    "description": "TEST TOKEN ON DEVNET",
-    "image": "https://raw.githubusercontent.com/EpicentralLabs/media-kit/refs/heads/master/public-images/test_img.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Climate"
-      }
-    ]
+    "description": "xTEST TOKEN ON DEVNET",
+    "image": "https://raw.githubusercontent.com/EpicentralLabs/media-kit/refs/heads/master/png-materials/xLABS-BrandBlue-2.png",
   }
